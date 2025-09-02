@@ -1,0 +1,91 @@
+###Basic Science and Technology | Primary/Basic 5 | Third Term
+Week: 1
+Topic: REVISION AND READINESS TEST
+Objectives: 
+Week: 2(Basic Science)
+Topic: ACID AND BASES: -Meaning of acid and -Examples of acids and -Types of acid and bases. -Differences beåyeen acid
+Objectives: By the end of the lesson, pupils should be able to: i. develop a meaning for acids and bases; ii. state some examples of acids and bases; iii. Identify types of acids and bases; iv. distinguish between acid and bases.
+Week: PHE
+Topic: Nutrition
+Objectives: By the end of the lesson, Pupils should be able to: i. discuss concept of food and nutrition. ii. mention sources of food nutrient iii. highlight the nfritional deficiency diseases iv. investigate the characteristics of these deficiency disease
+Week: IT
+Topic: Digital literacy -Definition -Components -Importance -Copyrüht and plagiarism
+Objectives: By the end of the lesson, pupils should be able to: i. Define digital literacy ii. Explain copyright and plagiarism iii. Outline the components and iv. Importance of digital literacy
+Week: 3(Basic Science)
+Topic: ACID AND BASES: -Materials used in making soap. -active ingredients in the local materials used in making soap. -Make soap from local materials -Uses of soap.
+Objectives: By the end of the lesson, pupils should be able to: i. Explain the meaning of Soap and detergents; ii. Mention Local materials used for making soap; iii. Identify the active ingredient in the local materials used in making soap; iv. enumerate the uses of soap.
+Week: PHE
+Topic: Food and Nutrition
+Objectives: By the end of the lesson, Pupils should be able to: i. mention the food nutrient ii. explain the effects of family size on nutrition iii. investigate the characteristics of nutritional deficient person
+Week: IT
+Topic: Digital literacy -Definition -Components -Importance -Copyright and plagiarism
+Objectives: By the end of the lesson, pupils should be able to: i. Define digital literacy ii. Explain copyright and plagiarism iii. Outline the components and iv. Importance of digital literacy
+Week: 4(Basic Science)
+Topic: Basic Electricity: -Types of electricity (static and current). -Methods of generating electricity.
+Objectives: By the end ofthe lesson, pupils should be able to: i. define electricity ii. identify and explain types of electricity. iii. discuss how electricity is generated. iv.discuss the importance of electricity in everyday life
+Week: PHE
+Topic: Martial Art History of Judo
+Objectives: By the end of the lesson, Pupils should be able to: i. discuss brief history of judo ii. itemize equipment of Judo iii. analyze the importance of judo iv. demonstrate judo skill
+Week: IT
+Topic: Cyberbullying -Definition -Forms of cyberbullying -Ways of dealing with Cyerbullying
+Objectives: By the end of the lesson, pupils should be able to: i. Define cyberbullying ii. Outline the forms and ways of cyberbullying
+Week: 5(Basic Science)
+Topic: Basic Electricity: -Conductors and nonconductors. -Electric hit. -Uses of electricity
+Objectives: By the end ofthe lesson, pupils should be able to: i. disus the meaning of conductors and non-conductors ii. explain how electricity travels from one point to the other (conductors); iii. group materials into conductors (metals) and non-conductors (woods, glass, *sic); iv. make a simple electric circuit connection.
+Week: PHE
+Topic: Martial Arts -Rules of judo and Skills
+Objectives: By the end oftE lesson, pupils should be able to: i. state rules of judo ii. list teminologies in judo game iii. demonstrates tie judo basic skills
+Week: IT
+Topic: Digital skills -Definition -Components of digital skills -Importance of digital skills
+Objectives: By tie end of the lesson, pupils should be able to: i. Define digital skills ii. Outline the components of digital skills iii. State the importance of digitat skills
+Week: 6(Basic Science)
+Topic: Magnetism: -Properties of magnets -Uses of magnets -Making magnets
+Objectives: By the end of ttE lesson, pupils should be able to: i. State the properties of magnets; ii. Group materials to magnetic and non magnetic iii. Write common applications of magnetism iv. Make and use magnets
+Week: PHE
+Topic: Swimming Strokes
+Objectives: By the end of the lesson, Pupils should be able to: i. discuss meaning swimming ii. demonstrate swimming strokes iii. explain most difficult easiest swimming stroke
+Week: IT
+Topic: Desktop publishing applications -Microsoft word -Microsoft excel -Microsoft PowerPoint
+Objectives: By the end of the lesson, pupils should be able to: i. Experiment on each of the given desktop publishing applications
+Week: 7
+Topic: MID TERM BREAK
+Objectives: MID TERM BREAK
+Week: 8(Basic Science)
+Topic: BASIC MOTOR PARTS (INTERNAL): -Internal parts of motor vehide e.g air bags, seat belts, steeing, brakes, ditches, pedals, gears etc. -Functions of the intemal parts of the motor vehicle
+Objectives: By the end of the lesson, Pupils should be able to i. Mention the internal parts of motor vehide; ii. Identify the intemal parts of a motor vehicle; iii. discuss the basic functions of the internal art of a motor vehicle.
+Week: PHE
+Topic: Pathogens, diseases and prevention:
+Objectives: By he end of the lesson, Pupils should be able to: i. discus concept of disease and pathogen ii. mention types of pathogen e.g. bacterial, virus. iii. distinguish between disease and pathogen iv. Investigate ways of preventing diseases
+Week: IT
+Topic: Setting up the HTML Document Identify html tags Dccument Structure HTML syntax
+Objectives: By the end of the lesson, pupils should be able to: i. Experiment on each of the given desktop how HTML works
+Week: 9(Basic Science)
+Topic: Body Image and self esteem -Concept of body image -Features of bod image -Factors affecting body image.
+Objectives: By the end of the lesson, pupils should be able to: i. explain the concept of body image; ii. appreciate individual features and uniqueness; iii. enumerate the factors affecting body image.
+Week: PHE
+Topic: Diseases; Meaning. Signs and Synptoms
+Objectives: By the end of the lesson, Pupils should be able to, i. discuss concept of disease ii. identify between signs and symptoms of diseases iii. compare between sickness and illness
+Week: IT
+Topic: Introduction to Python -Use of python -Simple syntax command
+Objectives: By the end of the lesson, pupils should be ablo to: i. Describe the meaning of python ii. Put python and syntax to use.
+Week: 10(Basic Science)
+Topic: System. -Meaning of excretory system. -Organs involves in excretory system: kidneys, skin, liver, large intestine etc.
+Objectives: By the end of the lesson, pupils should be able to i. describe the excretory system; ii. state tho organs involves in excretory system and their functions
+Week: PHE
+Topic: Meaning of communicable and non-communicable diseases
+Objectives: By end of the lesson, Pupils should be able to: i. define communicable and non-communicable diseases ii. . list kinds of communicable diseases iii. give concepts of non. communicable diseases iv. identify types of non-communicäble diseases
+Week: IT
+Topic: Introduction to Scratch
+Objectives: By the end of the lesson, Pupils should be able to
+Week: 11(Basic Science)
+Topic: Meaning of rocks. -Classification of rocks according to colour, hardness, texture, etc. -List some important uses construction, beautification etc. Name some major landmark rocks in Nigeria
+Objectives: By the end of lesson, pupils should be able to: i. explain the rneaning of rock; ii. Identify rocks and dassify rocks; iii. enumerate the uses of rocks qnenüon some landmark rocks in Nigeia. iv. Classify landmark rocks in Nigeria.
+Week: PHE
+Topic: Issues and Challenges in PHE
+Objectives: By the end of the lesson, Pupils should be able to: i. discus Issues and Challenges In sports ii. mention different types of issues and challenges drugs iii. list different types of drugs iv. highlight the uses of drug v. investigate the effects of drinking and smoking vi. summarize the effects of drugs on athlete
+Week: 12
+Topic: REVISION
+Objectives: REVISION
+Week: 13
+Topic: EXAMINATION
+Objectives: EXAMINATION

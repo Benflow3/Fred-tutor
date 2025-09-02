@@ -1,0 +1,91 @@
+###Basic Science and Technology | Primary/Basic 5 | Second Term
+Week: 1
+Topic: REDDINESS TEST/REVISION OF FIRST TERM’S WORK
+Objectives: REDDINESS TEST/REVISION OF FIRST TERM’S WORK
+Week: 2(Basic Science)
+Topic: REPRODUCTION IN PLANTS: -Parts of a flower, -Pollination; Meaning Types Process Agents
+Objectives: By the end of the lesson, Pupils should be able to: i. identify parts of a flower ii. explain the meaning of pollination iii. identify agents and types of pollination iv. draw and label a flower v. illustrate the process of pollination
+Week: PHE
+Topic: Hockey Game
+Objectives: By the end of the lesson, Pupils should be able to i. narrate the history of hockey ii. compare between facilities and equipment in hockey and other ball games iii. demonstate basic skills in hockey ball games iv. investigate the advantages in playing hockey games v. recommend the safety measures in playing hockey games
+Week: IT
+Topic: Search Engine -Definition -Explanation of different search engine
+Objectives: By the end of the lesson, Pupils should be able to i. Explain search engine ii. outline the different types of search engine
+Week: 3(Basic Science)
+Topic: REPRODUCTION IN PLANT -Identify part of a flower that are concerned with pollination and fertilization. -Desribe stages of development from flower to fruit -Distinguish pollination and fertilization
+Objectives: By the end of the lesson, Pupils should be able to i describe stages of development from flower fruit ii.differentiate between fertifization and poliination
+Week: PHE
+Topic: Table Tennis Game
+Objectives: By the end of the lesson, pupils should be able to; i. discuss brief history of Table Tennis ii. cartegorize types of facilities and equipment in Table Tennis iii. design a Table Tennis board. iv. demonstrates basic skills and teåniques of Table Tennis game
+Week: IT
+Topic: Search Engine -Explanation of different search engine
+Objectives: By the end of the lesson, Pupils should be able to i. explain search engine ii. Outline the different types of search engine
+Week: 4(Basic Science)
+Topic: DOMESTIC AND WILD ANIMALS -definition of domestic animals -identification of wild animals; -Classification of domestic and wild animals based on their food: -Uses of domestic and wild animals
+Objectives: Byfie end of the lesson, pupils should be able b: i. identify common domestic animals; ii. Identify common wild animals; iii.differentiate between domestic and wild animals iv. classify domestic and wild animals based on their food; v. explain the uses of domestic and wild animals
+Week: PHE
+Topic: Maintenance of sports facilities and equipment
+Objectives: By the end of the lesson, Pupils should be able to i. differentiates between sports facilities and equipment ii. list sports facilities and equipment iii. investigate reasons for keeping sports facilities and equipment
+Week: IT
+Topic: Understanding electronic mails -Definition -Creation of emails Explaining menus on the email interface.
+Objectives: By the end of the lesson, pupils should be able to: i. Define electronic mails ii. Explain menus on the email interface iii. Create email account
+Week: 5(Basic Science)
+Topic: ENERGY AND YOU (Heat and Energy): -Meaning of energy. -Name foms energy converter -Importance of enegy conversion.
+Objectives: By the end ofte lesson, pupils should be able to: i. develop a definition for energy ii. enumerate some forms of energy conversions such as electrical to heat energy (iron), chemical to heat energy(kerosene), electical to mechaniæl (blender) etc. iii. discuss the imponance of energy conversion.
+Week: PHE
+Topic: Physical Fitness
+Objectives: By the end of the lesson, pupils should be able to: i. discuss the concept of physical Fitness ii. list the components of Physical fitness. iii. differentiate between health and performance related physical components
+Week: IT
+Topic: Electronic mails -Definition -Creation of emails -Explaining menus on the mail interface.
+Objectives: By the end of the lesson, pupils should be able to: i. Define electronic mails ii. Explain menus on the email interface iii. Create email account
+Week: 6(Basic Science)
+Topic: Heat and temperature -Difference between heat and temperature -Thermometer -Uses and symbols of temperature scale (degree Celcius OC, and degree farenheight Of)
+Objectives: By the end of tie lesson, pupils should be able to: i. Differenfiate between heat and temperature; ii. Identify and name different types of temometer iii. Write the units and symbol of temperature iv. use the termometer to measure the temperature of objects accurately
+Week: PHE
+Topic: Physical Fitness
+Objectives: By the end of fre lesson, Pupils should beableto: i. demostrate physical fitness enhancement activities e.g. sit and read), squat jump, frog jump, bench dip, V-Stt elbow balance ii. identify stress enhancement iii. investigate the benefits of sress enhancemmt activities such as: power, agility, flexibility and balance
+Week: IT
+Topic: Wriring and sending emails -Receiving and replying emails
+Objectives: By the end of the lesson, pupls should be able b: i. Experiment writing, sending and replying emails ii. Describe the process of attaching files to emails
+Week: 7
+Topic: MID TERM BREAK
+Objectives: MID TERM BREAK
+Week: 8(Basic Science)
+Topic: MATTER: -Meaning of matter(matter is made up of tiny particles too small to see) -Atoms as fundamental building blocks of matter -States of matter: solids, liquids and gases.
+Objectives: By the end of the lesson, pupils should be able to i. develop a definition of matter and understand that eveMhing around is made up of tiny particles; ii. Explain what an atom is and relate it to matter; iii. identify the states of matter; iv.analyse solids liquids and gases in tems of how closely packed they are.
+Week: PHE
+Topic: Gymnastics
+Objectives: By the end of he lesson, Pupils should be able to: i. disccus definition of gymnastics. ii. identify types of gymnastics activities e.g. agility/floor acivities, stunts etc. iii. execute gymnastics activities
+Week: IT
+Topic: Writing and sending emails Receiving ard replying emails Adding files to emails
+Objectives: By the end of the lesson, pupils should be able to: i. Expriment writing sending and replying mails ii. Describe the process of attaching files to emails
+Week: 9(Basic Science)
+Topic: STATES OF MATTER -Properties of Solids, liquids and gases. -Change of state: melting, freezing. evaporation,
+Objectives: By the end of the lesson, pupils should be able to i. describe the properties of each state of matter in terms of attraction between the particles of a substance; ii. analyse how a substance changes state iii. explain melting. freezing, evaporation, condensation.
+Week: PHE
+Topic: Gymnastics activities with aparatus
+Objectives: By the end of the lesson, Pupils should be able to i. desribe gymnastic activities with aparatus ii. demonstrate gymnastic activities with aparatus iii. execute gymnastic activities with aparatus e.g walking on beam, rope climbing
+Week: IT
+Topic: Internet Safety -Definition -Safe internet uses -Online threats
+Objectives: By the end of the lesson, Pupils should be able to i. define internet safety ii. outline ways of using the internet safely iii. define online threat iv. outline types of online threat
+Week: 10(Basic Science)
+Topic: MATERIALS AND MAINTENACE -materials used in technology wood, metal, plastic -types of wood, metal, plastic -uses of material
+Objectives: By the end of the lesson, Pupils should be able to i. identify materials used in technology wood, metal, plastic ii. state types of wood, metal, plastic iii. examine the uses of materials use in technology
+Week: PHE
+Topic: Recreation
+Objectives: By the end of the lesson, Pupils should be able to i. discuss definition of recreation ii. identify the two components of recreation iii. analyze between indoor nad outdoor recreation iv. tabulate indoor and outdoor recreation
+Week: IT
+Topic: Hyper Text Mark-up Language (HTML) document. -Identify HTML tags -HTML document structure -Learn HTML
+Objectives: By the end of the lesson, Pupils should be able to i. define HTML and explain its functionalities
+Week: 11(Basic Science)
+Topic: MAINTAINANCE: -Meaning of maintenance. -Needs for maintenance. -Advantages ofmaintenance
+Objectives: By the end of the lesson, pupils should be able to: i. formulate the meaning of maintenance; ii. State the need for maintenance; iii. Explain the advantages of proper maintenance
+Week: PHE
+Topic: Introduction to Direction (four cadnal points)
+Objectives: By the end of the lesson, Pupils should be able to: i. descriabe four cardinal point ii- desgn cardinal point iii. give significance of four cardinal points
+Week: 12
+Topic: REVISION
+Objectives: REVISION
+Week: 13
+Topic: EXAMINATION
+Objectives: EXAMINATION
